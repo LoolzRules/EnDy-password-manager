@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EnDy</string>
+    <string name="button_enter">Enter</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="hint_enter_your_key">Enter your key</string>
+    <string name="hint_new_resource">Resource</string>
+    <string name="hint_new_username">Username</string>
+    <string name="hint_new_password">Password</string>
+</resources>
